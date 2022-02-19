@@ -14,6 +14,9 @@ output:
 ---
 
 ![](r_programming_webinar.jpeg)
+## Resource materials
+Download resource materials [here](https://github.com/myominnoo/webinars/tree/main/2022/02/RProgramming)
+
 
 ## Who is this webinar for? 
 
@@ -779,7 +782,7 @@ You can check which directory the R workspace is pointing to using the `getwd()`
 getwd()
 
 # Set current working directory.
-setwd("/Users/myominnoo/GoogleDrive/GitHub/webinars/2022/02/R Programming")
+setwd("/Users/myominnoo/GoogleDrive/GitHub/webinars/2022/02/RProgramming")
 
 getwd()
 ```
