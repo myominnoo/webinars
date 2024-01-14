@@ -1,0 +1,18 @@
+---
+title: "R for Public Health"
+subtitle: "How R can be used for Monitoring and Evaluation?"
+author: "Myo Minn Oo"
+execute:
+  echo: false
+format:
+  revealjs: 
+    slide-number: true
+    chalkboard: 
+      buttons: false
+    preview-links: auto
+    theme: simple
+    logo: images/quarto.png
+    footer: <https://myominnoo.com>
+---
+
+## Quarto
