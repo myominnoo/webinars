@@ -16,7 +16,7 @@ format:
     preview-links: auto
     theme: simple
     logo: images/quarto.png
-    footer: <https://myominnoo.com>
+    footer: <https://myominnoo.github.io/webinars/2024-01-14/RIntro.html>
 ---
 
 ## Hi there 👋! 
@@ -26,6 +26,10 @@ format:
 🕍 Worked for The Union |> Love data science and R |> Health Researcher
 
 🩷 Helping others maximize the impact of their expertise
+
+Contact me at <dr.myominnoo@gmail.com>
+
+Visit <https://myominnoo.com>
 
 ## Why R?
 
