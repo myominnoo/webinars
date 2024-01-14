@@ -1,11 +1,15 @@
 ---
-title: "R for Public Health"
-subtitle: "How R can be used for Monitoring and Evaluation?"
+title: "R for M&E"
+subtitle: "Union R Basic Course"
 author: "Myo Minn Oo"
+from: markdown+emoji
 execute:
   echo: false
 format:
   revealjs: 
+    incremental: true
+    link-external-icon: true
+    link-external-newwindow: true
     slide-number: true
     chalkboard: 
       buttons: false
@@ -15,4 +19,95 @@ format:
     footer: <https://myominnoo.com>
 ---
 
-## Quarto
+## Hi there 👋! 
+
+😏 Myo Minn Oo
+
+🕍 Worked for The Union |> Love data science and R |> Health Researcher
+
+🩷 Helping others maximize the impact of their expertise
+
+## Why R?
+
+- Automation
+  - Automated pipeline and workflow (Increase efficiency)
+
+- Accessibility 
+  - multiple output formats (docx, pptx, pdf, html) and through dashboards and Apps (Shiny) 
+
+- Integration with other tools and platforms 
+  - ODK, RedCap, APIs, etc.
+
+- Collaboration and Communication 
+  - Customized Reports, R packages, APIs, etc.
+
+- Reproducibility
+  - Auditable workflows from raw data to final reports
+
+
+## Monitoring and Evaluation
+
+- collect and analyze data | Report findings
+
+  - routine or ad-hoc 
+  
+  - data: administrative or research 
+  
+  - software: MS excel, Access, or custom apps 
+
+
+
+## Data Collection
+
+- Goal: quality data
+
+- Task: Data quality assessments and Data Monitoring
+
+- Resources: 
+
+  [Mariño 2022](https://www.mdpi.com/2076-3417/12/9/4238)  
+  [Schmidt 2021](https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-021-01252-7)   
+  [Data Quality by QIHS](https://dataquality.qihs.uni-greifswald.de)   
+  [CS5702 Modern Data Book](https://bookdown.org/martin_shepperd/ModernDataBook/C5-DataQualCheck.html)
+  
+- One time setup with periodic review of the process
+
+- Output: computation of data quality indicators
+
+## Data Analysis
+
+- Data Wrangling: Access to databases to Data Manipulation
+
+- Statistics | Data Science: Descriptive to Regression
+
+- Visualization: graphs to GIS Mapping
+
+## Documentation | Reporting
+
+- Build Customized Reports
+
+  - in traditional formats (pdf, docx, pptx)
+  - Interactive Dashboards
+  - Static web pages
+
+- Useful for routine reporting
+
+
+## Automated Workflow
+
+[Showcases](https://www.myominnoo.com/about/gallery.html#postdoctoral-scientific-collaborator-2021-2022)
+
+## Getting Started!
+
+- Don't learn everything about R. 
+
+- Learn R for one specific purpose at a time. 
+  - how to import excel into R.
+  - how to rename columns in R. 
+  - how to summarize data in R. 
+
+- Use R in your daily work. 
+
+## Any Questions? 
+
+
